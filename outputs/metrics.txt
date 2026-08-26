@@ -1,0 +1,6 @@
+MAE: 33940.25
+RMSE: 51238.93
+R2: 0.7996
+Dataset rows: 20640
+Train rows: 16512
+Test rows: 4128
